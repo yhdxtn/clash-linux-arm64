@@ -2,3 +2,5 @@
 1.解压本包到某个目录
 进入目录，使用命令:./clash-linux-arm64-latest -f 1.yaml
 其中1.yaml需要用你自己的配置文件
+cp Country.mmdb /root/.config/clash/
+Country.mmdb放到/root/.config/clash/目录下
